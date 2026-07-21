@@ -1,5 +1,5 @@
 
-## discription
+## Part-1 discription
 
 Provision a new developer account with administrative privileges, verify access, perform account security validation, and configure the required login shell.
 
@@ -133,6 +133,9 @@ The default login shell is now configured as:
 This shell was selected to ensure POSIX-compliant script execution where portability is required.
 
 ---
+
+
+
 
 # Validation
 
