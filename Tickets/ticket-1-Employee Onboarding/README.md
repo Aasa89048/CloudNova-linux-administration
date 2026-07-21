@@ -1,5 +1,5 @@
 
-## Part-1 discription
+# Part-1 discription
 
 Provision a new developer account with administrative privileges, verify access, perform account security validation, and configure the required login shell.
 
@@ -165,7 +165,7 @@ The account has:
 The account is ready for operational use.
 
 
-## Part-2 Description
+# Part-2 Description
 
 A new web application is scheduled for deployment on the server. Before deployment, the required application directory structure must be provisioned, ownership assigned to the application administrator, access permissions configured, and the administrator's access validated according to the company's Linux administration standards.
 
