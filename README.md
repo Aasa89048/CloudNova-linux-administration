@@ -42,7 +42,8 @@ architecture/         # Diagrams
 - [ ] Ticket 007 – Web Server Deployment
 - [ ] Ticket 008 – Backup Strategy
 - [ ] Ticket 009 – System Monitoring
-- [ ] Ticket 010 – Security Audit
+- [ ] Ticket 010 – Bash Automation
+- [ ] Ticket 011 - Network Troubleshooting
 
 ---
 
