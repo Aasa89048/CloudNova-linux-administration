@@ -23,12 +23,8 @@ The project is built around realistic operational tickets rather than isolated L
 ## Repository Structure
 
 ```
-docs/                 # Ticket documentation
-scripts/              # Bash automation scripts
-configs/              # Configuration files
+README.md/            # Ticket documentation
 screenshots/          # Verification screenshots
-incident-reports/     # Incident and troubleshooting reports
-architecture/         # Diagrams
 ```
 
 ## Current Progress
